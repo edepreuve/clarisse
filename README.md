@@ -1,4 +1,4 @@
-# clarisse
+# Clarisse
 Dépôt pour stocker des données complementaires pour un projet médical.
 
 ## Pour approfondir
